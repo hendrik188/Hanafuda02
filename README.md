@@ -19,12 +19,12 @@ sudo apt update && sudo apt install -y python3 python3-pip && python3 --version 
 Install and make screen (so it can run on background)
 ```
 sudo apt install screen
-screen -S hanafuda
+screen -S Hanafuda
 ```
 Git clone
 ```
-git clone https://github.com/hendrik188/hanafuda.git
-cd Hanafuda
+git clone https://github.com/hendrik188/Hanafuda02.git
+cd Hanafuda02
 ```
 Install dependencies
 ```
